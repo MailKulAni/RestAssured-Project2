@@ -28,13 +28,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/io.rest-assured/json-path -->
-        <dependency>
-            <groupId>io.rest-assured</groupId>
-            <artifactId>json-path</artifactId>
-            <version>4.3.3</version>
-        </dependency>
-
         <!-- https://mvnrepository.com/artifact/io.rest-assured/xml-path -->
         <dependency>
             <groupId>io.rest-assured</groupId>
@@ -48,6 +41,7 @@
             <artifactId>json-schema-validator</artifactId>
             <version>4.3.3</version>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
         <dependency>
             <groupId>org.hamcrest</groupId>
@@ -64,6 +58,4 @@
         </dependency>
 
     </dependencies>
-
-
 </project>
